@@ -9,3 +9,5 @@ I enjoy learning new things, and have always loved science and experimenting.
 
 I also enjoy messing with circuitry. And engineering in general. Building and programming stuff is cool.
 I once made an 8 bit adder just because. I just thought that was a cool project...
+
+I also tend to overcomment my code. Rarely do I comment too little.
