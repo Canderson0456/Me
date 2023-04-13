@@ -1,5 +1,5 @@
 # A description on your's truly!
-Hello, my name is Chase. I have recent knowledge on C, and old knowledge on Python, JavaScript, and HTML.
+Hello, my name is Chase. I have recent knowledge on C and lua, and old knowledge on Python, JavaScript, and HTML.
 
 I am currently majored in Computer Engineering.
 
